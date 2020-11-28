@@ -1,7 +1,7 @@
 # TWO-CARS
 2CARS game made on pygame library on python.
 
-FOr running the game 
+For running the game 
 
 => In the directory 2cars , type in command line
 
