@@ -3,7 +3,7 @@
 
 For running the game 
 
-=> In the directory 2cars , type in command line
+=> In the directory TWO-CARS , type in command line
 
 $python 2cars.py
 
